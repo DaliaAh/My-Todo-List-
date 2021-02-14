@@ -1,0 +1,23 @@
+{
+    "name": "My TodoList",
+    "tasks": [
+        {
+            "hashKey": 200179188,
+            "dueDate": "2020-12-12",
+            "name": "Task1",
+            "description": "This is my first task",
+            "priority": "HIGH",
+            "complete": false,
+            "createDate": "2020-10-30"
+        },
+        {
+            "hashKey": 325554136,
+            "dueDate": "2020-12-13",
+            "name": "Task2",
+            "description": "This is my second task",
+            "priority": "MEDIUM",
+            "complete": false,
+            "createDate": "2020-10-30"
+        }
+    ]
+}

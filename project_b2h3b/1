@@ -1,0 +1,32 @@
+{
+    "name": "My TO-DO List",
+    "tasks": [
+        {
+            "hashKey": -663171413,
+            "dueDate": "2020-12-12",
+            "name": "task1",
+            "description": "hahaha",
+            "priority": "HIGH",
+            "complete": false,
+            "createDate": "2020-10-23"
+        },
+        {
+            "hashKey": 1186939809,
+            "dueDate": "2020-12-14",
+            "name": "task2",
+            "description": "nothing",
+            "priority": "MEDIUM",
+            "complete": false,
+            "createDate": "2020-10-23"
+        },
+        {
+            "hashKey": 1916797355,
+            "dueDate": "2020-12-12",
+            "name": "task5",
+            "description": "dec 5",
+            "priority": "LOW",
+            "complete": false,
+            "createDate": "2020-10-30"
+        }
+    ]
+}
